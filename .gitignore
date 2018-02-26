@@ -40,3 +40,4 @@ disassembly*.armasm
 sherwin_adventure
 sherwin_adventure_debug
 *.elf
+gfx/references/*
